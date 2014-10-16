@@ -1,0 +1,74 @@
+.base16 {
+  width: 640px;
+  margin: 0 auto;
+}
+.base16 > * {
+  width: 40px;
+  height: 40px;
+  float: left;
+  padding: 10px;
+  color: #fff;
+}
+.base00 {
+  background: #151515;
+}
+
+.base01 {
+  background: #202020;
+}
+
+.base02 {
+  background: #303030;
+}
+
+.base03 {
+  background: #505050;
+}
+
+.base04 {
+  background: #b0b0b0;
+}
+
+.base05 {
+  background: #d0d0d0;
+}
+
+.base06 {
+  background: #e0e0e0;
+}
+
+.base07 {
+  background: #f5f5f5;
+}
+
+.base08 {
+  background: #ac4142;
+}
+
+.base09 {
+  background: #d28445;
+}
+
+.base0A {
+  background: #f4bf75;
+}
+
+.base0B {
+  background: #90a959;
+}
+
+.base0C {
+  background: #75b5aa;
+}
+
+.base0D {
+  background: #6a9fb5;
+}
+
+.base0E {
+  background: #aa759f;
+}
+
+.base0F {
+  background: #8f5536;
+}
